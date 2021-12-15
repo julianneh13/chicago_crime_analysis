@@ -6,12 +6,12 @@ This is an analysis of crime trends in the city of Chicago from 2001 - December 
 
 Project Overview
 -------
-**Project Purpose:** Provide exploratory data analysis on the levels of crime recorded in Chicago, IL.
-**Research Questions:** 
-What is the most common crime?
-Has crime increased over the years?
-Are certain areas more 'dangerous' than others?
-Is it possible to predict the crime levels of future years?
+**Project Purpose:** Provide exploratory data analysis on the levels of crime recorded in Chicago, IL. <br />
+**Research Questions:** <br />
+What is the most common crime?<br />
+Has crime increased over the years?<br />
+Are certain areas more 'dangerous' than others?<br />
+Is it possible to predict the crime levels of future years?<br />
 
 Data Source
 -------
